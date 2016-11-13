@@ -1,5 +1,10 @@
 # LeBOTcoin BETA
 Renouvelez vos annonces Leboncoin rapidement et facilement!
-Installateurs en .MSI ou .EXE
 
 Pour tout problèmes ou suggestions: bridoux.martin@gmail.com
+
+<--->
+
+Fichier README en cours de construction...
+
+Présentation du logiciel à cette adresse en attendant: 
