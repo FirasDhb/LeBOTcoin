@@ -1,6 +1,6 @@
 # LeBOTcoin BETA
 
-/// Le projet passe en open source! ///
+/// Le projet passe en Open Source ///
 
 Renouvelez vos annonces Leboncoin rapidement et facilement!
 
