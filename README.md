@@ -1,9 +1,7 @@
+Ce projet n'est plus mis à jour.
+
 # LeBOTcoin BETA
-
-*Version Open-Source du projet: https://github.com/Maartin10/LeBOTcoin-OpenSource*
-
  
-
 Renouvelez vos annonces Leboncoin rapidement et facilement!
 
 
